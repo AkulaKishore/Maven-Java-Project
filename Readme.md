@@ -4,7 +4,7 @@ created a sample Hello function. It contains main method. This method calls the 
 
  
 
-**Classes: **
+**Classes:**
 
 Hello.java 
 
@@ -18,10 +18,10 @@ Greetings.java
 
  
 
-**Folder structure: ** 
+**Folder structure:** 
  
 
-**Maven-Java-Project **
+**Maven-Java-Project**
 
 src/main/java/hello 
   1. Hello.java 
@@ -34,12 +34,12 @@ Pom.xml
 
  
 
-**Dependencies added: **
+**Dependencies added:**
 
   1. Joda Time 
   2. Junit 
 
- **Maven life cycles: **
+ **Maven life cycles:**
 
   mvn –v : to check if maven is installed 
 
